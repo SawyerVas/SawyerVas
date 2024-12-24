@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi! 👋 I'm SawyerVas 👋
 
-<!--
-**SawyerVas/SawyerVas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me**:  
+My name is Vasyl, I'm a developer with 1 years of experience in [direction: Frontend/Backend/Full-Stack].  
+I love building [libraries, apps, automation projects] and learning new technologies.  
 
-Here are some ideas to get you started:
+💻 **Technologies**:  
+- Programming languages: Python, JavaScript, TypeScript  
+- Frameworks: React, Django, Flask  
+- Tools: Docker, CI/CD, Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **My contacts**:
+- [LinkedIn](https://www.linkedin.com/in/vasyl-yukhymuk-194046173/)
+- [Telegram](https://t.me/sh1zzy1)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SawyerVas&show_icons=true&theme=radical)  
+
+Translated with DeepL.com (free version)
