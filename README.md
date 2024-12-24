@@ -16,5 +16,3 @@ I love building [libraries, apps, automation projects] and learning new technolo
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SawyerVas&show_icons=true&theme=radical)  
-
-Translated with DeepL.com (free version)
