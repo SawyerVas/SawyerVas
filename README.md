@@ -7,8 +7,11 @@ I love building [libraries, apps, automation projects] and learning new technolo
 💻 **Technologies**:  
 - Programming languages: Python, JavaScript, TypeScript  
 - Frameworks: React, Django, Flask  
-- Tools: Docker, CI/CD, Git  
+- Tools: Docker, CI/CD, Git
 
+🌟 **My Ptoject**
+- TelegramBot (https://github.com/SawyerVas/sawtg)
+- 
 🌐 **My contacts**:
 - [LinkedIn](https://www.linkedin.com/in/vasyl-yukhymuk-194046173/)
 - [Telegram](https://t.me/sh1zzy1)
